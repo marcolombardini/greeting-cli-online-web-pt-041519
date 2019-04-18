@@ -1,1 +1,3 @@
-# code the #greeting method here!
+def greeting(name)
+  puts "Hi, #{name}! Don't panic, I'm the newer version"
+end
